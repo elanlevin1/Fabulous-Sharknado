@@ -67,8 +67,8 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Switch_Adapted_Water_Gun_Design_Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rational.docx)     |
-| 3D Printing Guide    | 1.0     | [Switch_Adapted_Water_Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.pdf)     |
-| Assembly Guide          | 1.0     | [Switch_Adapted_Water_Gun_Maker_Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Document.pdf)     |
+| 3D Printing Guide    | 1.0     | [Switch_Adapted_Water_Gun_3D_Printing_Guide](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.pdf)     |
+| Assembly Guide          | 1.0     | [Switch_Adapted_Water_Gun_Maker_Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly.pdf)     |
 | Bill of Materials    | 1.0     | [Switch_Adapted_Water_Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.xlsx)     |
 | User Guide           | 1.0     | [Switch_Adapted_Water_Gun_User_Guide](/Documentation/Switch_Adapted_Water_Gun_User_Guide.pdf)    |
 | Maker Checklist            | 1.0     | [Switch_Adapted_Water_Gun_Maker_Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist.docx)     |
