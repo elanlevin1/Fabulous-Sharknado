@@ -52,7 +52,7 @@ The [Bill of Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.xlsx) lists 
 
 ### 2. Print the 3D Printable components
 
-All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+All of the files and individual print files can be found in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files) folder.
 
 ### 3. Assemble the <DeviceName>
 
@@ -66,23 +66,20 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 <!--- Update the name, link, and version for documentation --->
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Switch_Adapted_Water_Gun_Design_Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rationale.pdf)     |
-| 3D Printing Guide    | 1.0     | [Switch_Adapted_Water_Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide (2))     |
+| Design Rationale     | 1.0     | [Switch_Adapted_Water_Gun_Design_Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rational.docx)     |
+| 3D Printing Guide    | 1.0     | [Switch_Adapted_Water_Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_3D_Printing_Guide.pdf)     |
 | Assembly Guide          | 1.0     | [Switch_Adapted_Water_Gun_Maker_Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Document.pdf)     |
 | Bill of Materials    | 1.0     | [Switch_Adapted_Water_Gun_Bill_of_Materials](/Documentation/Switch_Adapted_Water_Gun_BOM.xlsx)     |
 | User Guide           | 1.0     | [Switch_Adapted_Water_Gun_User_Guide](/Documentation/Switch_Adapted_Water_Gun_User_Guide.pdf)    |
-| Maker Checklist            | 1.0     | [Switch_Adapted_Water_Gun_Maker_Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist.pdf)     |
+| Maker Checklist            | 1.0     | [Switch_Adapted_Water_Gun_Maker_Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist.docx)     |
 
 ### Design Files
 <!--- Include a copy of the original design files to facilitate easy editing and customization. Consider also including a generic format (e.g., STEP) --->
  - [CAD Files](/Design_Files/CAD_Design_Files)
- - [PCB Files](/Design_Files/PCB_Design_Files)
 
 ### Build Files
 <!--- Include a copy of the build files intended for manufacturing. This may include svg files for laser cutting, stl files for 3d printing, Gerber files for custom PCBs, and Arduino files for custom firmware. --->
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
- - [PCB Build Files](/Build_Files/PCB_Build_Files)
- - [Firmware Files](/Build/Firmware_Files)
 
 ## Attribution
 <!--- Provide any necessary attribution for designs or components that are included in the device or as part of the project. --->
