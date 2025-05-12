@@ -56,7 +56,7 @@ All of the files and individual print files can be found in the [/Build_Files/3D
 
 ### 3. Assemble the <DeviceName>
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Document.pdf) for the tools and steps required to build the device.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly.pdf) for the tools and steps required to build the device.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
